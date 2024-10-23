@@ -67,7 +67,7 @@
     "@nestjs/testing": "^10.4.5",
     "@swc/cli": "^0.4.0",
     "@swc/core": "^1.7.36",
-    "@types/jest": "^29.5.13",
+    "@types/jest": "^29.5.14",
     "@types/node": "^22.7.5",
     "@types/pg": "^8.11.10",
     "@types/supertest": "^6.0.2",
